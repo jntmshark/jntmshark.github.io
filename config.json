@@ -3,6 +3,6 @@
     "subTitle":"Mike_Wang(又名jntmshark)的博客",
     "avatarUrl":"https://cdn.luogu.com.cn/upload/usericon/1394949.png",
     "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
-    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://jntmshark.rth1.xyz/click.js'></script>",
     "GMEEK_VERSION":"last"
 }
